@@ -1,11 +1,11 @@
-# # See https://help.github.com/ignore-files/ for more about ignoring files.
+# See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# # dependencies
-# /node_modules
+# dependencies
+/node_modules
 
-# # production
-# /build
+# production
+/build
 
-# # Mac DS Store
-# **/.DS_Store
-# /.DS_Store
+# Mac DS Store
+**/.DS_Store
+/.DS_Store
